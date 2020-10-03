@@ -1,2 +1,3 @@
 practice1a
 add changed text regist to index.
+pull get remote repository description.
